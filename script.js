@@ -83,8 +83,8 @@ async function checkWeather(city){
 
                 case 'Mist':
                 case 'Haze':
-                    weather_img.src = "image/haze.png";
-                    body.style.backgroundImage = "url('image/haze.png')";
+                    weather_img.src = "image/haze.jpg";
+                    body.style.backgroundImage = "url('image/haze.jpg')";
                     break;
                 case 'Fog':
                 case 'Smoke':
